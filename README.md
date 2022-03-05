@@ -5,9 +5,7 @@ Unofficial Railroads Online! HOTAS Support
 
 This third-party executable program helps you to use your HOTAS with Railroads Online! game.
 
-
 Use of the program is completely free. 
-If you would like to support the development, you can do it here: https://shorturl.at/bryT6 Thank you, I appreciate it!
 
 1️⃣  Download and save program to your hard drive (Find program release on the right side under Releases) 
 
