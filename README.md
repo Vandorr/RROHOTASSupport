@@ -46,7 +46,7 @@ If you would like to support the development, you can do it here: https://shortu
 ## FAQ
 
 **What the hell is IOTE checkbox?**\
-Interact Only on The Edge - If you check it, it will only interact with the game when your HOTAS axis reach the desired value. I use it for the reverser
+Interact Only on The Edge - If you check it, it will only interact with the game when your HOTAS axis reach the desired (Value top or Value bottom) value. I use it for the reverser
 
 
 **Requirements if you want to build from the source code:**
