@@ -41,6 +41,8 @@ Use of the program is completely free.
   -  STEP 1: move your mouse to the game and position to the break min and position your HOTAS for neutral . Hit Joytick 1 button. It will save the position and Hotas value to the "TOP" fields
   - STEP 2: position your mouse to the Break max and position your HOTAS for breaking. Hit Joytick 1 button. It will save the position and Hotas value to the "BOTTOM" fields
 
+## Antivirus warning
+The program needs to monitoring your Joystick/HOTAS positions and send mouse click or keystrokes for a game window. This is not something regular programs do, so your antivirus program can detect and gives you a false positive result!
 
 ## FAQ
 
