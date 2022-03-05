@@ -9,9 +9,9 @@ This third-party executable program helps you to use your HOTAS with Railroads O
 Use of the program is completely free. 
 If you would like to support the development, you can do it here: https://shorturl.at/bryT6 Thank you, I appreciate it!
 
-1️⃣  Download and save program to your hard drive (Find release on the right side) 
+1️⃣  Download and save program to your hard drive (Find program release on the right side under Releases) 
 
-2️⃣  Download and save premade profile if you want 
+2️⃣  Download and save premade profile if you want (Find profile release on the right side under Releases) 
 
 3️⃣  Execute Program
 
