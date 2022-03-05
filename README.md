@@ -42,7 +42,9 @@ If you would like to support the development, you can do it here: https://shortu
   -  STEP 1: move your mouse to the game and position to the break min and position your HOTAS for neutral . Hit Joytick 1 button. It will save the position and Hotas value to the "TOP" fields
   - STEP 2: position your mouse to the Break max and position your HOTAS for breaking. Hit Joytick 1 button. It will save the position and Hotas value to the "BOTTOM" fields
       
-**What the hell is IOTE checkbox?**
+## FAQ
+
+**What the hell is IOTE checkbox?**\
 Interact Only on The Edge - If you check it, it will only interact with the game when your HOTAS axis reach the desired value. I use it for the reverser
 
 ![image](https://user-images.githubusercontent.com/990379/156883487-349b34cc-6bac-4219-a357-713bf03c8efb.png)
