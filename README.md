@@ -41,16 +41,19 @@ If you would like to support the development, you can do it here: https://shortu
 - click on Calibration button on the row (2 step for calibration)
   -  STEP 1: move your mouse to the game and position to the break min and position your HOTAS for neutral . Hit Joytick 1 button. It will save the position and Hotas value to the "TOP" fields
   - STEP 2: position your mouse to the Break max and position your HOTAS for breaking. Hit Joytick 1 button. It will save the position and Hotas value to the "BOTTOM" fields
-      
+
+
 ## FAQ
 
 **What the hell is IOTE checkbox?**\
 Interact Only on The Edge - If you check it, it will only interact with the game when your HOTAS axis reach the desired value. I use it for the reverser
 
-**Requirements if you want to build from the source code**
+
+**Requirements if you want to build from the source code:**
 - Delphi 10.3
 - DevExpress components (TcxGrid, input fields)
 - Winsoft's DirectX Joystick Component
+
 
 ## SCREENSHOT
 
