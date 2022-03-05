@@ -26,18 +26,20 @@ If you would like to support the development, you can do it here: https://shortu
 7️⃣  Start Game. If running, select game window
 
 8️⃣  Configure HOTAS Axis behaviors:
-        - you have to setup two rows. One for Throttle and one for Break
-       FOR THROTTLE:
-        - click on + icon on the navigator panel for the first new row
-        - setup Axis and press ✅ on the navigator panel
-        - click on Calibration button on the row (2 step for calibration)
-             -  STEP 1: move your mouse to the game and position to the throttle max and position your HOTAS for throttle. Hit Joytick 1 button. It will save the position and Hotas value to the "TOP" fields
-            - STEP 2: position your mouse to the throttle min and position your HOTAS for neutral. Hit Joytick 1 button. It will save the position and Hotas value to the "BOTTOM" fields
-        FOR BRAKE:
-        - click on + icon on the navigator panel for the second row
-        - setup Axis and press ✅ on the navigator panel
-        - click on Calibration button on the row (2 step for calibration)
-             -  STEP 1: move your mouse to the game and position to the break min and position your HOTAS for neutral . Hit Joytick 1 button. It will save the position and Hotas value to the "TOP" fields
-            - STEP 2: position your mouse to the Break max and position your HOTAS for breaking. Hit Joytick 1 button. It will save the position and Hotas value to the "BOTTOM" fields
+- you have to setup two rows. One for Throttle and one for Break
+
+**FOR THROTTLE:**
+- click on + icon on the navigator panel for the first new row
+- setup Axis and press ✅ on the navigator panel
+- click on Calibration button on the row (2 step for calibration)
+  -  STEP 1: move your mouse to the game and position to the throttle max and position your HOTAS for throttle. Hit Joytick 1 button. It will save the position and Hotas value to the "TOP" fields
+  - STEP 2: position your mouse to the throttle min and position your HOTAS for neutral. Hit Joytick 1 button. It will save the position and Hotas value to the "BOTTOM" fields
+
+**FOR BRAKE:**
+- click on + icon on the navigator panel for the second row
+- setup Axis and press ✅ on the navigator panel
+- click on Calibration button on the row (2 step for calibration)
+  -  STEP 1: move your mouse to the game and position to the break min and position your HOTAS for neutral . Hit Joytick 1 button. It will save the position and Hotas value to the "TOP" fields
+  - STEP 2: position your mouse to the Break max and position your HOTAS for breaking. Hit Joytick 1 button. It will save the position and Hotas value to the "BOTTOM" fields
             
 ![image](https://user-images.githubusercontent.com/990379/156883487-349b34cc-6bac-4219-a357-713bf03c8efb.png)
