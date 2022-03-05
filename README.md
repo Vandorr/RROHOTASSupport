@@ -47,6 +47,11 @@ If you would like to support the development, you can do it here: https://shortu
 **What the hell is IOTE checkbox?**\
 Interact Only on The Edge - If you check it, it will only interact with the game when your HOTAS axis reach the desired value. I use it for the reverser
 
+**Requirements if you want to build from the source code**
+- Delphi 10.3
+- DevExpress components (TcxGrid, input fields)
+- Winsoft's DirectX Joystick Component
+
 ## SCREENSHOT
 
 ![image](https://user-images.githubusercontent.com/990379/156883487-349b34cc-6bac-4219-a357-713bf03c8efb.png)
