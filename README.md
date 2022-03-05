@@ -47,4 +47,14 @@ If you would like to support the development, you can do it here: https://shortu
 **What the hell is IOTE checkbox?**\
 Interact Only on The Edge - If you check it, it will only interact with the game when your HOTAS axis reach the desired value. I use it for the reverser
 
+## SCREENSHOT
+
 ![image](https://user-images.githubusercontent.com/990379/156883487-349b34cc-6bac-4219-a357-713bf03c8efb.png)
+
+## SUPPORT/DONATION
+
+Use of the program is completely free. 
+If you would like to support the development, you can do it here:\
+[![N|Solid](https://github.com/Vandorr/RROHOTASSupport/blob/main/images/donate-through-paypal.png)](https://shorturl.at/bryT6 )
+
+**Thank you, I appreciate it!**
