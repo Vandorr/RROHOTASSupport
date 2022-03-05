@@ -3,7 +3,8 @@ Unofficial Railroads Online! HOTAS Support
 
 [![N|Solid](https://github.com/Vandorr/RROHOTASSupport/blob/main/images/join-us-on-discord.png)](https://discord.gg/VvsMfJWjyp)
 
-This third-party executable program helps you to use your HOTAS with Railroads Online! game.
+This third-party executable program helps you to use your HOTAS with Railroads Online! game.\
+It only works in driving mode because it relies on the UI being there (it emulates a mouse click+move events)!
 
 Use of the program is completely free. 
 
