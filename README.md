@@ -22,7 +22,7 @@ Use of the program is completely free.
 
 6️⃣  Select Hardware (first controller selected by default)
 
-7️⃣  Start Game. If running, select game window
+7️⃣  Start Game. If running, select game window (find name: "Arr")
 
 8️⃣  Configure HOTAS Axis behaviors:
 - you have to setup two rows. One for Throttle and one for Break
